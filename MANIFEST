@@ -1,0 +1,9 @@
+Makefile.PL
+CHANGES
+MANIFEST
+README
+
+lib/Your/Momma.pm
+
+t/00_your_momma.t
+
